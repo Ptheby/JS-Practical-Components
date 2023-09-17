@@ -18,3 +18,9 @@ Challenges faced is mainly remembering how we can use all the different elements
 ///Button Playgournd Project
 I'm getting more familiar with event listeners and how to apply them. Some of the main things that are a challenge are actually realizing that several things he's doing is built in or i believe are built in bootstrap things. I am still so new that I need to know if something is built in or just made up by him or anyone and the significance of most things or everything.  I also am getting more comfortable with querySelector.
 
+///Coding Playground
+
+Signed up at Codepen.io and put my code from the last project in there. Uploading GIF
+
+
+///
