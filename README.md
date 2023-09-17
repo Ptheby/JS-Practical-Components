@@ -23,4 +23,5 @@ I'm getting more familiar with event listeners and how to apply them. Some of th
 Signed up at Codepen.io and put my code from the last project in there. Uploading GIF
 
 
-///
+///Stopwatch
+The stop watch was more good pratice on everything. It does get somewhat confusing along the way and I could not get it to work correctly. After debugging everythong i could find ane eliminating all the errors on console i could not find anything else. Joe helped me walk through all the code also. FInally we caught two typos in Chat Gtp that solved all the issues and it works. My biggest challenges only have to do with understand everything he is doing and why.
