@@ -25,3 +25,6 @@ Signed up at Codepen.io and put my code from the last project in there. Uploadin
 
 ///Stopwatch
 The stop watch was more good pratice on everything. It does get somewhat confusing along the way and I could not get it to work correctly. After debugging everythong i could find ane eliminating all the errors on console i could not find anything else. Joe helped me walk through all the code also. FInally we caught two typos in Chat Gtp that solved all the issues and it works. My biggest challenges only have to do with understand everything he is doing and why.
+
+//Accordion
+My accordion is not working exactly as it should, it is bunching up and cannot figure out why. Need to call into code coach tomorrow because Chat Gtp is of no help on this one. I don't get a ton out of just following along with a guy flying through the steps when im not sure what he is doing or why he's doing things for a good oprtion of it. He knows infinitely more than I do and is just building this project while i copy him. Some of it is familiar but I did not take much from it personally. 
