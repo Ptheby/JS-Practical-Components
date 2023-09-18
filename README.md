@@ -28,3 +28,7 @@ The stop watch was more good pratice on everything. It does get somewhat confusi
 
 //Accordion
 My accordion is not working exactly as it should, it is bunching up and cannot figure out why. Need to call into code coach tomorrow because Chat Gtp is of no help on this one. I don't get a ton out of just following along with a guy flying through the steps when im not sure what he is doing or why he's doing things for a good oprtion of it. He knows infinitely more than I do and is just building this project while i copy him. Some of it is familiar but I did not take much from it personally. 
+
+
+//Scrolling Progress
+Similar to the accordion i just copied what he did. The biggest thing i am solifiying is possibly how to grab things in the doc and event listeners, the rest was cofusing because he knows so much more than i do and flies through the project
